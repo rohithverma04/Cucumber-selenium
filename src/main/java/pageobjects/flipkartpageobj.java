@@ -36,5 +36,9 @@ public void master() {
 System.out.println("master to be removed");
 
 }
+public void develope() {
+System.out.println("master to be removed");
+
+}
 }
 
