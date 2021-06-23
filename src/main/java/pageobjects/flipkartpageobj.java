@@ -35,5 +35,8 @@ public WebElement flipkartaddtocart() throws InterruptedException{
 public void developebranch() {
 	System.out.println("This is a develope branch");
 }
+public void developebranch1() {
+	System.out.println("This is a develope branch");
+}
 
 }
