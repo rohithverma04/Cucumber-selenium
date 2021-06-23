@@ -32,12 +32,7 @@ public WebElement flipkartaddtocart() throws InterruptedException{
 	//System.out.println(driver.getTitle());
 	return driver.findElement(addtocart);
 }
-public void developebranch() {
-	System.out.println("This is a develope branch");
-}
-public void developebranch1() {
-	System.out.println("This is a develope branch");
+
 }
 
->>>>>>> develope
 }
