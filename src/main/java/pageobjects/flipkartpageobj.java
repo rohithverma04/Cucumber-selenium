@@ -32,7 +32,10 @@ public WebElement flipkartaddtocart() throws InterruptedException{
 	//System.out.println(driver.getTitle());
 	return driver.findElement(addtocart);
 }
+public void master() {
+System.out.println("master to be removed");
 
+}
 }
 
 }
