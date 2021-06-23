@@ -32,15 +32,8 @@ public WebElement flipkartaddtocart() throws InterruptedException{
 	//System.out.println(driver.getTitle());
 	return driver.findElement(addtocart);
 }
-/*public String switchtab() throws InterruptedException {
-	Thread.sleep(2000);
-	Set<String> ids=driver.getWindowHandles();
-	Iterator<String> it=ids.iterator();
-	String parent=it.next();
-	String child=it.next();
-	driver.switchTo().window(child);
-	Thread.sleep(2000);
-	return driver.getTitle();
-}*/
+public void githubtest() {
+	System.out.println("This is the first method which is added for the cloned project");
+}
 
 }
